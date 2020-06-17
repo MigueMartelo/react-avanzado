@@ -1,0 +1,6 @@
+{
+  "baseUrl": "http://localhost:8080",
+  "chromeWebSecurity": false,
+  "viewportWidth": 500,
+  "viewportHeight": 800
+}
