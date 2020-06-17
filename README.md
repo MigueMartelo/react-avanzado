@@ -3,7 +3,7 @@
 Repositorio con el código del [Curso Avanzado de React de Platzi](https://platzi.com/cursos/react-avanzado/)
 
 ## App Preview
-[Petgram](./images/petgram.png)
+![Petgram](./images/petgram.png)
 
 ## Qué aprendí en este curso?
 * Creación y configuración de un proyecto React desde cero, utilizando webpack y babel
