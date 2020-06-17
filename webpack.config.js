@@ -30,7 +30,7 @@ module.exports = {
       runtimeCaching: [
         {
           urlPattern: new RegExp(
-            "https://(res.cloudinary.com | images.unspalsh.com)"
+            "https://(res.cloudinary.com|images.unsplash.com)"
           ),
           handler: "CacheFirst",
           options: {
